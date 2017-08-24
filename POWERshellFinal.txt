@@ -1,13 +1,13 @@
 #Final
    Grading Rubric
-30	Code runs
-20	Code Solves the identified problems
-10	Documentation (comments)
-10	Loops
-10	3+ Function	
-5	Parameter Sets
-5	Uploaded to Github	
-10	"Style"
+  	Code runs
+  	Code Solves the identified problems
+  	Documentation (comments)
+  	Loops
+  	3+ Function	
+	Parameter Sets
+ 	Uploaded to Github	
+  	"Style"
 
 Create a powershell script that will gather information about the host it is executed on and write the results to a file.
 
