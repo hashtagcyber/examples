@@ -15,7 +15,7 @@ Create a powershell script that will gather information about the host it is exe
 		Computername
 		Date/Time
 		OS Version
-		List of all processes,sorted (or separated, or grouped) by Session ID 
+		List of all processes,sorted by session ID
 		List of all open sockets
 
 	-hashdir <dir> [outfile]	
