@@ -1,0 +1,12 @@
+Rules:
+    You may use any built-in system utility
+    You may install and use the 7-zip utility
+    You may NOT use any publicly available "hacking tools"
+    You WILL develop your own scripts to solve the challenge
+
+
+
+1.The zip file is encrypted with a 4 character password. 
+2.Extract the data
+3.Identify the US city where the data originated
+4.Upload a copy of your codee to your git repo when complete. 
