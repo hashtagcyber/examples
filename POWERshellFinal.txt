@@ -1,0 +1,26 @@
+#Final
+   Grading Rubric
+30	Code runs
+20	Code Solves the identified problems
+10	Documentation (comments)
+10	Loops
+10	3+ Function	
+5	Parameter Sets
+5	Uploaded to Github	
+10	"Style"
+
+Create a powershell script that will gather information about the host it is executed on and write the results to a file.
+
+	-survey	[outfile]
+		Computername
+		Date/Time
+		OS Version
+		List of all processes,separated by session
+		List of all open sockets
+
+	-hashdir <dir> [outfile]	
+		Get contents of directory
+		Generate and save a hash of each file in the directory
+
+	-custom
+		Make the script perform an action of your own design.
