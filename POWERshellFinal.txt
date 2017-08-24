@@ -5,7 +5,6 @@
   	Documentation (comments)
   	Loops
   	3+ Function	
-	Parameter Sets
  	Uploaded to Github	
   	"Style"
 
